@@ -1,0 +1,6 @@
+{
+  "appId": "com.roma.vueCapacitorExample",
+  "appName": "vue-capacitor-example",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
